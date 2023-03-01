@@ -1,4 +1,3 @@
-# Prosper-Loan-Data
 # Prosper Loan Data Exploration
 
 ## Agbons Ekata-Inuaghata
