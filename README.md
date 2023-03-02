@@ -2,6 +2,9 @@
 
 ## Agbons Ekata-Inuaghata
 
+##Overview
+This project aims to analyze loan data from Prosper Marketplace, a company based in San Francisco, California, that specializes in providing peer-to-peer loans at low interest rates to borrowers. The goal is to identify the different borrower motivations when applying for loans, and several factors that may influence loan favorability (measured in terms of Borrower Rates).
+
 ## Dataset
 
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset can be found in the
